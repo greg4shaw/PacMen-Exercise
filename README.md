@@ -7,7 +7,7 @@ This project was part of the course work required in the MIT xPRO Full-Stack dev
 
 ## Description
 
-A basic project to create a moving PacMan through the use of 4 images. The project also requires the PacMan to change direction when reaching the end of the screen.
+A basic project to create a moving PacMan through the use of 4 images. The project requires the PacMan to begin packing when it is launched and the project also requires the PacMan to change direction when reaching the end of the screen. WARNING: He will keep packing as long as you keep watching.
 
 ### Features
 
@@ -39,7 +39,7 @@ If by some unexpected act of nature PacMan stops packing, please get hold of me 
 
 ## Roadmap
 
-PacMan has only just begun his adventures... His roadmap is slowly but surely building up to be one of the greatest to ever be travelled. He may turn different colors, he may move in other directions on the screen, he may decide to change size and he may even get a girlfriend. Keep your eyes peeled for more adventures.
+PacMan has only just begun his adventures... His roadmap is slowly but surely building up to be one of the greatest to ever be travelled. He may turn different colors, he may move in other directions on the screen or bounce around and change direction when hitting a boundary, he may decide to change size and he may even get a girlfriend. Keep your eyes peeled for more adventures.
 
 ## Versioning
 
