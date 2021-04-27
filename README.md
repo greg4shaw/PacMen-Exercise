@@ -1,19 +1,19 @@
-<h1><img src="images/PM.jpg" alt="PacMan Project" width="50%"></h1>
+<h1><img src="images/PM.jpg" alt="PacMen Project" width="50%"></h1>
 
 # PacMan Project
-> MIT xPRO - Week 4
+> MIT xPRO - Week 7
 
 This project was part of the course work required in the MIT xPRO Full-Stack development course taken.
 
 ## Description
 
-A basic project to create a moving PacMan through the use of 4 images. The project requires the PacMan to begin packing when it is launched and the project also requires the PacMan to change direction when reaching the end of the screen. WARNING: He will keep packing as long as you keep watching.
+A project to create animated PacMen through the use of 4 images. The project requires a button to create a PacMan. Each time this is pressed a new PacMan is created at a different place on the screen. Once you are satisfied with the amount of PacMen, the 'Start Game' button can be clicked. This will start the PacMen packing in all directions at different velocities. The PacMen will also change directions when reaching the borders of the screen. WARNING: They will keep packing as long as you keep watching.
 
 ### Features
 
-* A beautiful looking yellow PacMan
-* A thrilling journey across a screen
-* The unending question of whether PacMan will turn before it is too late...
+* As many beautiful looking yellow PacMen as you desire
+* Many thrilling journeys across the screen
+* The unending question of whether each PacMan will turn before it is too late...
 
 ## Installation
 
@@ -21,12 +21,13 @@ Clone the files that are in the PacMen Exercise directory to your local machine.
 Open a new tab in your browser window.
 Drag and drop the pacmen.js file onto the new tab.
 The project will load an appear in your browser.
-You will see a bright yellow Pacman eating it's way across your screen.
+You will see two buttons on the screen. 'Add PacMan' will add a PacMan when clicked. As many Pacmen can be added as necessary.
+'Start Game' will begin the movement of the PacMen across the screen.
 
 ## Usage
 
 ### Usage:
-Having a rough day? Can't seem to see the positive side of things? Well you are in luck. Using this PacMan project may not only turn your day around, but quite possibly your life. Use it as often as you like. Hell, run it on various machines at the same time if you can. The more exposure to this amazing little yellow creature you expose yourself to, the more happiness you will generate in your life, and let's be honest here, there is no such thing as too much happiness.
+Having a rough day? Can't seem to see the positive side of things? Well you are in luck. Using this PacMen project may not only turn your day around, but quite possibly your life. Use it as often as you like. Hell, run it on various machines at the same time if you can. The more exposure to this amazing little yellow creature you expose yourself to, the more happiness you will generate in your life, and let's be honest here, there is no such thing as too much happiness.
 
 ### Expected outcomes:
 Freedom. 
@@ -39,7 +40,7 @@ If by some unexpected act of nature PacMan stops packing, please get hold of me 
 
 ## Roadmap
 
-PacMan has only just begun his adventures... His roadmap is slowly but surely building up to be one of the greatest to ever be travelled. He may turn different colors, he may move in other directions on the screen or bounce around and change direction when hitting a boundary, he may decide to change size and he may even get a girlfriend. Keep your eyes peeled for more adventures.
+PacMan has only just begun his adventures... His roadmap is slowly but surely building up to be one of the greatest to ever be travelled. He may turn different colors upon hitting a border, he may decide to randomly change size while he is travelling, he may hit the border after a certain amount of times and then disappear, and he may even get a girlfriend. Keep your eyes peeled for more adventures.
 
 ## Versioning
 
